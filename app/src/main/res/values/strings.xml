@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="toggleon">Turn ON</string>
+    <string name="toggleoff">Turn OFF</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
